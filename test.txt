@@ -1,1 +1,2 @@
 A test file for testing the windows CRLF problem.
+A second line.
